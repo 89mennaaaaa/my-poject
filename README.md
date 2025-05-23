@@ -12,3 +12,5 @@ This project is a Clinic Management System designed to help in managing the pati
 - Sara Ahmed  
 - Noha Alsayed  
 - Habiba Essam
+# our video link on youtube
+( https://youtu.be/sP7tLsqqvlg )
